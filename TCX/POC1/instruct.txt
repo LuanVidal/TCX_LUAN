@@ -1,0 +1,27 @@
+# Introdução
+
+Atualmente, muitos fabricantes modernos precisam rastrear produtos e materiais em suas fábricas. 
+O controle do processo pode ser fundamental para o sucesso da empresa, pois pode melhorar a qualidade 
+e a eficiência ao fornecer aos fabricantes informações em tempo real sobre suas operações.
+Um importante exemplo de informação é a contagem de produtos ao final do processo, com o 
+intuito de evitar perdas. Existem muitas maneiras de contar objetos, como sensores e visão computacional.
+ Este último precisa de uma câmera, um hardware e um software que consiga ler as informações de uma imagem 
+ e mostrá-las aos fabricantes de forma amigável.
+
+# Objetivo
+
+O objetivo deste teste é usar a visão computacional para contar a quantidade de alto-falantes produzidos
+ em uma fábrica. Assumindo que tanto a qualidade da imagem quanto a orientação dos alto-falantes mudam, 
+ face para cima ou para baixo, fornece um algoritmo flexível que pode contar quantos alto-falantes estão 
+ presentes na imagem, independentemente da possibilidade de imagem de baixa qualidade.
+Certifique-se de que seu código esteja limpo e compreensível.
+
+# Detalhes importantes
+
+- O código deve estar em python.
+- Certifique-se de que seu código esteja limpo e compreensível. 
+- Faça comentários curtos.
+- Você pode usar o OpenCV livremente e escolher qualquer tipo de processamento de imagem para 
+tentar atingir o objetivo.
+- Você deve contar os alto-falantes em todas as 07 (sete) imagens, destacar os objetos contados pelo programa e 
+exibir o número de itens contado
